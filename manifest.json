@@ -1,0 +1,15 @@
+{
+  "short_name": "docs center",
+  "name": "aiokr's docs center",
+  "icons": [
+    {
+      "src": "./assets/images/192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "background_color": "#FFF",
+  "theme_color": "#FFF",
+  "display": "standalone",
+  "start_url": "index.html"
+}
