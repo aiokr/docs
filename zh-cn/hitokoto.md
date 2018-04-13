@@ -4,7 +4,7 @@ Hitokoto 是一个基于 php 制作的， 用户在博客和个人主页等处�
 
 [aiokr's Hitokoto](https://hitokoto.aiokr.com)
 
-## 调用方式 {docsify-ignore}
+## 调用方式
 
 1. PHP调用
 
