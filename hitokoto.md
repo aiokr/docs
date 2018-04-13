@@ -32,7 +32,6 @@ $.post("https://hitokoto.aiokr.com/", function(hitokoto) {
 同时在你想要输出 Hitokoto 的标签中加上 hitokotoEcho 样式，例如：
 
 ```html
-
 <body>
   <div class="hitokoto">
     Loding...
