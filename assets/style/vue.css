@@ -34,7 +34,7 @@ div#app:empty:before {
     vertical-align: middle
 }
 
-.progress {
+/*.progress {
     background-color: var(--theme-color, #536DFE
 );
     height: 2px;
@@ -45,7 +45,7 @@ div#app:empty:before {
     transition: width .2s, opacity .4s;
     width: 0;
     z-index: 5
-}
+}*/
 
 .search .search-keyword,
 .search a:hover {
