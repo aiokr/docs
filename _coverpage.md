@@ -1,6 +1,6 @@
 # aiokr's docs center
 
-[Get Started](/zh-cn/index.md)
+[Get Started](/readme.md)
 
 
 <!-- 背景色 -->
