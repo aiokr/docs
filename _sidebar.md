@@ -1,2 +1,1 @@
-* [Hitokoto](/garage/zh-cn/hitokoto)
-* [Error Pages](garage/zh-cn/errorpages)
+* [Garage](/garage/zh-cn/index.md)
