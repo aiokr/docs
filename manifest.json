@@ -3,7 +3,7 @@
   "name": "aiokr's docs center",
   "icons": [
     {
-      "src": "./assets/images/192.png",
+      "src": "./assets/images/icon.png",
       "type": "image/png",
       "sizes": "192x192"
     }

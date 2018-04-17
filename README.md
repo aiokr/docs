@@ -1,3 +1,7 @@
+# aiokr's docs center
+
+![logo](/assets/images/doc-logo.png)
+
 # Catalog 目录
   * [Garage](/garage/zh-cn/index.md)
     * [hitokoto](/garage/zh-cn/hitokoto.md)
