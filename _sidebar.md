@@ -1,1 +1,1 @@
-* [Garage](/garage/zh-cn/README.md)
+* [Garage](/garage/zh-cn/index.md)
