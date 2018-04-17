@@ -19,7 +19,6 @@ var vendorCacheName = "vendor" + cacheVersion; var maxEntries = 100;
 
 /* StaticAssetsCache */
 self.toolbox.router.get("/css/(.*)", self.toolbox.networkFirst, {origin: /docs\.aiokr\.top/,});
-self.toolbox.router.get("/js/(.*)", self.toolbox.networkFirst, {origin: /docs\.aiokr\.top/,});
 self.toolbox.router.get("/js/(.*)", self.toolbox.networkFirst, {origin: /cdn\.bootcss\.com/,});
 
 /* staticImageCache */
