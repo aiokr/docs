@@ -7,7 +7,7 @@ if (navigator.serviceWorker) {
   });
 }
 
-self.importScripts("https://cdnjs.cat.net/ajax/libs/sw-toolbox/3.6.1/sw-toolbox.js");
+self.importScripts("https://cdnjs.loli.net/ajax/libs/sw-toolbox/3.6.1/sw-toolbox.js");
 self.toolbox.options.debug = false;
 self.toolbox.options.networkTimeoutSeconds = 3;
 
