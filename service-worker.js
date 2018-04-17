@@ -20,6 +20,20 @@ var vendorCacheName = "vendor" + cacheVersion; var maxEntries = 100;
 /* StaticAssetsCache */
 self.toolbox.router.get("/css/(.*)", self.toolbox.networkFirst, {origin: /docs\.aiokr\.top/,});
 self.toolbox.router.get("/js/(.*)", self.toolbox.networkFirst, {origin: /cdn\.bootcss\.com/,});
+self.toolbox.router.get("/fonts/(.*)", self.toolbox.cacheFirst, {
+  origin: /fonts\.googleapis\.com/,
+  cache: {
+      name: staticAssetsCacheName,
+      maxEntries: maxEntries
+  }
+});
+self.toolbox.router.get("/fonts/(.*)", self.toolbox.cacheFirst, {
+  origin: /fonts\.gstatic\.com/,
+  cache: {
+      name: staticAssetsCacheName,
+      maxEntries: maxEntries
+  }
+});
 
 /* staticImageCache */
 self.toolbox.router.get("/(.*)", self.toolbox.cacheFirst, {
