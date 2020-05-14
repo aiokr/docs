@@ -1,11 +1,9 @@
-# aiokr's docs center
+# 渊梦文件中心
 
-![logo](/assets/images/doc-logo.png)
+在 Github [aiokr/docs](https://github.com/aiokr/docs) 查看本仓库
 
-* [西周法律制度](/西周法律制度.md)
+本仓库 Git 提交历史可用于证明文档首次发布时间
 
-# Catalog 目录
-  * [Garage](/garage/zh-cn/index.md)
-    * [hitokoto](/garage/zh-cn/hitokoto.md)
-    * [Error Pages](/garage/zh-cn/errorpages.md)
-    * [Material Alphabet](/garage/zh-cn/Material-Alphabet.md)
+## 许可证信息
+
+本仓库所有内容，原作者保留所有权利。

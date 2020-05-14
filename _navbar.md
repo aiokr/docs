@@ -1,1 +1,1 @@
-* [iTypen](https://www.itypen.com)
+* [iTypen.APP](https://itypen.app)

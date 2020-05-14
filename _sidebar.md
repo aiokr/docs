@@ -1,2 +1,2 @@
-* [Garage](/garage/zh-cn/index.md)
-* [西周法律制度](西周法律制度.md)
+- [首页](README.md)
+- [链接](链接.md)
